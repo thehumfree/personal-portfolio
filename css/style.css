@@ -40,6 +40,8 @@ nav > ul > li {
 }
 .bg h2 {
   color: rgb(3, 143, 98);
+  font-style: italic;
+  font-weight: lighter;
 }
 .info {
   background-color: rgb(48, 56, 65);
@@ -80,6 +82,6 @@ nav > ul > li {
   border-top: 2px solid rgb(3, 143, 98);
   padding: 2em;
 }
-.foot span{
-    margin-right: 10em;
+.foot span {
+  margin-right: 10em;
 }
